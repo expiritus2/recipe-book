@@ -1,0 +1,12 @@
+.submitButton {
+  margin-right: 10px;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
